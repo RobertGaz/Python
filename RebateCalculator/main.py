@@ -1,3 +1,5 @@
+################## RobertGaz, 2020 ##################
+
 import datetime as dt
 
 from numpy import array, repeat, double, max as np_max
